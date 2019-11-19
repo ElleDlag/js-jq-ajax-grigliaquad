@@ -3,7 +3,6 @@ function nRand(n,x){
 }
 
 $(function(){
-    chrono();
     var countFill = 0;
     var wdSize;
     wdSize = $(window).width()
